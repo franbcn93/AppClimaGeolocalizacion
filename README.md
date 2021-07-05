@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Puedes ver el proyecto haciendo click [ ...AQUÍ...](https://app.netlify.com/sites/eloquent-mestorf-1096e8/overview).
 
 ## Available Scripts
 
